@@ -1,0 +1,6 @@
+*.sw[op]
+*.bak
+venv/**
+tmp/**
+**/__pycache__/**
+.pytest_cache/**
